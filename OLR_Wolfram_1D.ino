@@ -10,7 +10,7 @@
  Open LED Race Project 
  An minimalist game race for LED strip
  
- Experimental version phisics dinamic based on Wolfram Cellular Automata 1D 
+ Experimental version physics dinamic based on Wolfram Cellular Automata 1D 
 
  https://writings.stephenwolfram.com/2019/10/announcing-the-rule-30-prizes/
  
